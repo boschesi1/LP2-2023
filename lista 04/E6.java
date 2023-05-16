@@ -3,7 +3,7 @@ package lista4;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Exercicio6 {
+public class E6 {
 
 	public static void main(String[] args) {
 		
